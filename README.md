@@ -1,2 +1,4 @@
 # CV
-Personal Site Development
+Personal Site Development.
+
+Taking course from Udemy and making my own Website.
